@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <title>
@@ -8,71 +8,43 @@ Categories &ndash; [X] Seize the Night [X] Neopets Guild
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/css/modern-normalize.css">
 <link rel="stylesheet" href="/css/stn.css">
+<script src="/js/jquery.js"></script>
+<script src="/js/jquery.debounce.js"></script>
+<script src="/js/jquery.fluidbox.min.js"></script>
 </head>
 <body>
-  <div class="container">
-    <aside>
-      <ul>
-        
-        
-        
-        <li>
-          <a href="/dark-moon/">
-            
-            <span>Dark Moon</span>
-          </a>
-        </li>
-        
-        
-        
-        <li>
-          <a href="/">
-            
-            <span>Home</span>
-          </a>
-        </li>
-        
-        
-        
-        <li>
-          <a href="/lupes/">
-            
-            <span>Lupes</span>
-          </a>
-        </li>
-        
-        
-        
-        <li>
-          <a href="/talis/">
-            
-            <span>Talis</span>
-          </a>
-        </li>
-        
-        
-      </ul>
-    </aside>
-    
+  <div class="wrapper">
+    <header id="header">
+      <h1><a href="/">[x] Seize the Night [x]</a></h1>
+    </header>
     <main>
     
 <div>
-    <div>
-        <h1>Categories</h1>
-        
-    </div>
+  <article>
+    <h1>Categories</h1>
+    
+  </article>
 </div>
 
     </main>
     
     
-    
   </div>
   <footer>
-    <p>The content of this project itself is licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike
-    4.0 International</a> (CC BY-NC-SA 4.0) license, and the underlying
-    source code used to format and display that content is licensed under the <a href="https://github.com/shriker/seizethenight">MIT license</a>. This is a fan site. We are not affiliated with or endorsed by Neopets.</p>
-  </footer>
-</body>
+  <hr>
+  <p>The content of this project is licensed under the <a
+      href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike
+      4.0 International</a> (CC BY-NC-SA 4.0) license. The underlying
+    <a href="https://github.com/shriker/seizethenight">source code</a> used to format and display that content is licensed under the MIT license.</p>
+  <p>This is a fan site. We are not affiliated with or
+    endorsed by <a href="http://www.neopets.com">Neopets</a>.</p>
+  <p>Copyright <a href="https://shriker.ca">soulwolf</a> 2000&ndash;2020. All rights reserved.</p>
+</footer>
 
+<script>
+  $(function () {
+    $('.image').fluidbox();
+  })
+</script>
+</body>
 </html>
