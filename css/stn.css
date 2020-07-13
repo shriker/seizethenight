@@ -1,0 +1,43 @@
+body {
+  background-color: #000;
+  background-image: repeating-linear-gradient(0deg, 
+      rgba(0,0,0, 0.15), rgba(0,0,0, 0.15) .5rem, 
+      transparent 0, transparent 1rem
+    ), radial-gradient(
+    rgba(0, 150, 0, 0.75), #000 120%
+  );
+  height: 100%;
+  margin: 0;
+  padding: 2rem;
+  color: #fff;
+  font: 1.3rem Inconsolata, monospace;
+  text-shadow: 0 0 .5rem #C8C8C8;
+}
+
+footer {
+  font-size: 0.8rem;
+}
+
+/* Never fear, grid is here. */
+.masonry {
+  display: grid;
+  grid: auto-flow / repeat(auto-fit, minmax(300px, 1fr));
+  align-items: center;
+  margin: 2rem auto;
+  gap: 2rem;
+  text-align: center;
+}
+.masonry figure, .masonry figcaption {
+  background: #111;
+  min-width: 300px;
+  max-width: 300px;
+  margin: 0 auto;
+}
+.masonry figcaption {
+  padding: 1rem;
+  font-size: 1rem;
+}
+.masonry figure img {
+  max-width: 300px;
+  max-height: 300px;
+}
