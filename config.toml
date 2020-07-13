@@ -1,0 +1,12 @@
+baseURL = "/"
+title = "[X] Seize the Night [X] Neopets Guild"
+author = "Jodie Struthers"
+languageCode = "en"
+disableHugoGeneratorInject = true
+enableRobotsTXT = true
+
+[menu]
+  [[menu.main]]
+    identifier = "top"
+    name = "Home"
+    url = "/"

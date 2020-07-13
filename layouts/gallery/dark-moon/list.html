@@ -1,0 +1,19 @@
+{{ define "title" }}
+{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+<section>
+    <header>
+        <h1>~Dark Moon Eyries~</h1>
+        {{ .Content }}
+    </header>
+    <div class="gallery">
+        {{ range $.Site.Data.darkmoon }}
+        <figure>
+            <a href="{{ .src }}" class="image"><img src="{{ .src }}" alt="{{ .name }}" title="{{ .name }}"></a>
+            <figcaption>{{ .name }}</figcaption>
+        </figure>
+        {{ end }}
+    </div>
+</section>
+{{ end }}

@@ -1,0 +1,17 @@
+{{ define "title" }}
+{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+<section>
+  <h1>{{ .Title }}</h1>
+
+  {{.Content}}
+  
+  <ul>
+  {{- range where .Data.Pages "Params.gallery" "eq" true -}}
+    <li><a class="menu-item" href="{{.Permalink}}">{{ .Title }}</a></li>
+  {{ end }}
+  </ul>
+
+</section>
+{{ end }}

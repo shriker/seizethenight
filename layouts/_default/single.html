@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section id="main">
+  <h1 id="title">{{ .Title }}</h1>
+  <div>
+    <article id="content">
+      {{ .Content }}
+      {{ if .Params.partial }}
+      {{ partial .Params.partial . }}
+      {{ end }}
+    </article>
+  </div>
+</section>
+{{ end }}

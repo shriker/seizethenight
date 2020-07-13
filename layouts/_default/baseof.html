@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+<head>
+<meta charset="utf-8">
+<title>{{ block "title" . }} {{ .Site.Title }}{{ end }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/modern-normalize.css">
+<link rel="stylesheet" href="/css/stn.css">
+<script src="/js/jquery.js"></script>
+<script src="/js/jquery.debounce.js"></script>
+<script src="/js/jquery.fluidbox.min.js"></script>
+</head>
+<body>
+  <div class="wrapper">
+    <header id="header">
+      <h1><a href="/">[x] Seize the Night [x]</a></h1>
+    </header>
+    <main>
+    {{ block "main" . }}
+    {{ end }}
+    </main>
+    {{ block "footer" . }}
+    {{ end }}
+  </div>
+  {{ partial "footer.html" . }}
+<script>
+  $(function () {
+    $('.image').fluidbox();
+  })
+</script>
+</body>
+</html>
