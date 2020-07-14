@@ -24,9 +24,18 @@
 <script src="/js/jquery.debounce.js"></script>
 <script src="/js/jquery.fluidbox.min.js"></script>
 <script>
-  $(function () {
-    $('.image').fluidbox();
+$(function () {
+  $('.image').fluidbox()
+  .on('openstart.fluidbox', function (e) {
+    e.preventDefault();
+    let bg = 'background-image: url("' + $(this).find("img").attr("src") + '")';
+    document.styleSheets[0].addRule(".fluidbox__overlay::before", bg);
   })
+  .on('openend.fluidbox', function (e) {
+  })
+  .on('closestart.fluidbox', function () {
+  });
+});
 </script>
 </body>
 </html>
