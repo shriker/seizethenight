@@ -1,28 +1,24 @@
 ---
 title: "About"
-description: "Origin of the Seize the Night Lupe Guild."
+description: "Origin of the Seize the Night Neopets Guild."
 excerpt: ""
 partial: "actors.html"
 ---
 
-This is a living archive for the \[x\] Seize the Night \[x\] (StN) guild from Neopets. Circa 2001.
+This is a living archive for the \[x\] Seize the Night \[x\] (StN) guild from Neopets. Circa 2000~2005. The aim is to [collect](/contribute/) all of the excellent creations we made during the pre-customization era of Neopets (and beyond).
 
-**Seize the Night** (StN) was originally a nameless collective on Neopets. I (soulwolf) started creating threads with the title "\[x\] Lupe Role Play \[x\]" in the "Evil Things and Monster Sightings" neoboard. (There was no Roleplay neoboard category.)
+Seize the Night was originally a nameless collective on Neopets. I (soulwolf) started creating threads with the title "\[x\] Lupe Role Play \[x\]" in the "Evil Things and Monster Sightings" neoboard. (There was no Roleplay neoboard category.) When Neopets introduced player-created guilds, there was enough interest that I decided to create one. I picked the name "Seize the Night" based on the 1998 Dean Koontz novel of the same name.
 
-When Neopets introduced guilds, there was enough interest that I decided to create one. I picked the name "Seize the Night" based on the 1998 Dean Koontz novel of the same name.
+Things we did: wrote in boards that would yeet our writing into the void, a lot of character design, stay up too late, made friends, played too many Adobe Flash games, saved for paint brushes, collected avatars, built PetPages, guild layouts, user and Neopet lookups, struggled with the realities of global communities.
 
+### What does "\[x\]" mean?
 
-### Growth
+To put simply: it was eye-catching board decoration, but also indicative of being [straight edge](https://en.wikipedia.org/wiki/Straight_edge) at the time. 😎 It influenced much of SpectraDevil's aesthetic.
 
-It grew. Fast. In the first couple of months it grew to 260 members. I implemented a council and then a sub-council to help with the influx of people. Then 320 people. 440. 520. It was around this time that the guild became unwieldy.
-
-If you wrote on our guild message board, your message would be gone by the time the page reloaded. You'd drown in the voices.
-
-There was no proper threading. There was no proper moderation. There was no way to implement any sort of escalation path. There wasn't even any visual indication of who was and was not a guild admin. You had to dig deep into the member list or visit individual profiles to figure that out.
 
 ## Associated Acts
 
-Neopet guilds that were related, allied, or had significant membership crossover.
+Neopet guilds that were related, allied, or had significant membership crossover. (You all belong here!)
 
 * Arctic Thunder Lupe Pack
 * Arctic Wolf Pack, The

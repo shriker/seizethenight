@@ -2,18 +2,19 @@
 {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-<section>
+<div class="gallery-page">
   <article>
-    <h1>Talis the Aisha</h1>
+    <h1>{{.Title}}</h1>
     {{.Content}}
   </article>
   <div class="gallery">
-    {{ range $.Site.Data.talis }}
+    {{ $data := (index $.Site.Data .Params.images) }}
+    {{ range $data }}
     <figure>
       <a href="{{ .src }}" class="image"><img src="{{ .src }}" alt="{{ .name }}" title="{{ .name }}"></a>
       <figcaption>{{ .name }}</figcaption>
     </figure>
     {{ end }}
   </div>
-</section>
+</div>
 {{ end }}

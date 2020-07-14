@@ -1,5 +1,5 @@
 <div class="actors">
-{{ range $index, $element := sort $.Site.Data.actors }}
-  💚 {{ . }}
-{{ end }}
+  <p>{{ range $index, $element := sort $.Site.Data.actors }}
+    💚 {{ . }}
+  {{ end }}</p>
 </div>
