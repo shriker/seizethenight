@@ -35,7 +35,7 @@ The [source code](https://github.com/shriker/seizethenight) to this site is publ
 
 ## A Feature or Suggestion
 
-Don't know how to contribute to the code directly? That's okay! You can still [create issues and feature requests](https://github.com/shriker/rpgfix/issues/new/choose) without having coding knowledge. 🌼
+Don't know how to contribute to the code directly? That's okay! You can still [create issues and feature requests](https://github.com/shriker/seizethenight/issues/new/choose) without having coding knowledge. 🌼
 
 ## I wasn't a member, but...
 
