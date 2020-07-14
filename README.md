@@ -8,10 +8,25 @@
 
 [stn.shriker.ca](https://stn.shriker.ca/)
 
-## License
+## Installing
 
-The content (all images and writing) of this project itself is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0) license, and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
+1. Clone this repository, or your fork, with [Git](https://git-scm.com/downloads). `git clone https://github.com/shriker/seizethenight.git`
+2. Install [Hugo](https://gohugo.io/)
+3. Run `hugo server` in the cloned directory.
+4. Make changes to the content and code and visit `localhost:1313` to see them reflected in real time.
 
-## URL Mirrors
+## Publishing
+
+This project is published on a separate branch (`gh-pages`) in this repository.
+
+The bash script, `publish.sh` takes care of publication.
+
+## Licenses
+
+The content of this project itself is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0) license.
+
+The underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
+
+## URL Mirrors 🔗
 
 * [https://shriker.github.io/seizethenight/](https://shriker.github.io/seizethenight/)
