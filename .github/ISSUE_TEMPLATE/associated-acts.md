@@ -1,6 +1,6 @@
 ---
 name: "\U0001F4DF Update Associations"
-about: "Add or remove text in Associated Acts and Actors."
+about: "Add or remove text in Associated Acts and Associated Actors."
 title: ""
 labels: 'i: enhancement, i: needs triage'
 assignees: ''

@@ -1,6 +1,6 @@
 ---
 name: "\U0001F680 Feature Request"
-about: "I have a feature request (and may want to implement it \U0001F642)"
+about: "I have a feature request (and may want to implement it \U0001F642)."
 title: ""
 labels: 'i: enhancement, i: needs triage'
 assignees: ''
