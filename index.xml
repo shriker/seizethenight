@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>[x] Seize the Night [x] on [X] Seize the Night [X] Neopets Guild</title>
-    <link>/</link>
+    <link>https://stn.shriker.ca/</link>
     <description>Recent content in [x] Seize the Night [x] on [X] Seize the Night [X] Neopets Guild</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Jul 2020 18:47:38 -0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stn.shriker.ca/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://stn.shriker.ca/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://stn.shriker.ca/about/</guid>
       <description>This is a living archive for the [x] Seize the Night [x] (StN) guild from Neopets. Circa 2001.
 Seize the Night (StN) was originally a nameless collective on Neopets. I (soulwolf) started creating threads with the title &amp;ldquo;[x] Lupe Role Play [x]&amp;rdquo; in the &amp;ldquo;Evil Things and Monster Sightings&amp;rdquo; neoboard. (There was no Roleplay neoboard category.)
 When Neopets introduced guilds, there was enough interest that I decided to create one. I picked the name &amp;ldquo;Seize the Night&amp;rdquo; based on the 1998 Dean Koontz novel of the same name.</description>
@@ -24,10 +24,10 @@ When Neopets introduced guilds, there was enough interest that I decided to crea
     
     <item>
       <title>Join</title>
-      <link>/join/</link>
+      <link>https://stn.shriker.ca/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/join/</guid>
+      <guid>https://stn.shriker.ca/join/</guid>
       <description>I mean&amp;hellip;
 Where to find us? Looking to reconnect with people? Here are a few haunts:
  Discord Server - Quickest way to contact soulwolf (Shriker)  Facebook Group - (Private) You need to be approved to view posts, but it&amp;rsquo;s got a bunch of artwork made ugly by Facebook&amp;rsquo;s compression algorithm. Neopets Guild - Inactive and due to scheduled board wiping, not a great place to post.  Contributing Want to add your artwork to this archive?</description>

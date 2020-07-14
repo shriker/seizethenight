@@ -104,6 +104,40 @@ main h1 {
   max-height: 30rem;
 }
 
+/* Neopet code */
+.neopetcode {
+  padding: 0 1rem 1rem 1rem;
+}
+.neopetcode td {
+  padding: 1rem;
+}
+.s {
+  background-color:#323A45;
+  color:#fff;
+  padding-left:.5rem;
+  padding-top:.2rem;
+  padding-bottom: .2rem;
+  border-bottom: .3rem solid #FABF49;
+  font-size:1.4rem;
+  font-weight: bold;
+} 
+.m {
+  color:#000000;
+  background-color:#ECD078;
+} 
+.c {
+  color:#fff;
+  background-color:#53777A;
+  width: 5rem;
+  text-align:center;
+  font-weight: bold;
+}
+.sd td {
+  padding: .4rem;
+}
+.ctr {text-align:center}
+
+/* Menu */
 .menu {
   font-family: 'Space Mono', monospace;
   position: relative;

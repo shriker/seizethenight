@@ -3,44 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://stn.shriker.ca/</loc>
     <lastmod>2020-07-12T18:47:38-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/gallery/</loc>
+    <loc>https://stn.shriker.ca/gallery/</loc>
     <lastmod>2020-07-12T18:47:38-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/gallery/lupes/</loc>
+    <loc>https://stn.shriker.ca/gallery/lupes/</loc>
     <lastmod>2020-07-12T18:47:38-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/gallery/dark-moon/</loc>
+    <loc>https://stn.shriker.ca/gallery/dark-moon/</loc>
     <lastmod>2020-07-12T18:47:38-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/gallery/talis/</loc>
+    <loc>https://stn.shriker.ca/gallery/talis/</loc>
     <lastmod>2000-01-10T18:47:38-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://stn.shriker.ca/about/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://stn.shriker.ca/categories/</loc>
   </url>
   
   <url>
-    <loc>/join/</loc>
+    <loc>https://stn.shriker.ca/join/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://stn.shriker.ca/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stn.shriker.ca/neopet-code/</loc>
   </url>
   
 </urlset>

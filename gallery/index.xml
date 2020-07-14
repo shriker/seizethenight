@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galleries on [X] Seize the Night [X] Neopets Guild</title>
-    <link>/gallery/</link>
+    <link>https://stn.shriker.ca/gallery/</link>
     <description>Recent content in Galleries on [X] Seize the Night [X] Neopets Guild</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Jul 2020 18:47:38 -0800</lastBuildDate>
     
-	<atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stn.shriker.ca/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
