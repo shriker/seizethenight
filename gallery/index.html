@@ -8,9 +8,6 @@ Galleries &ndash; [X] Seize the Night [X] Neopets Guild
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/css/modern-normalize.css">
 <link rel="stylesheet" href="/css/stn.css">
-<script src="/js/jquery.js"></script>
-<script src="/js/jquery.debounce.js"></script>
-<script src="/js/jquery.fluidbox.min.js"></script>
 </head>
 <body>
   <div class="wrapper">
@@ -22,7 +19,7 @@ Galleries &ndash; [X] Seize the Night [X] Neopets Guild
 <section>
   <h1>Galleries</h1>
 
-  <p>Welcome to the art galleries.</p>
+  <p>Welcome to the art galleries! Learn how to <a href="/contribute/">contribute</a> to them. Eventually they may be divided up by artist, character, guild, or really whatever makes sense.</p>
 
   
   <ul><li><a class="menu-item" href="https://stn.shriker.ca/gallery/lupes/">Lupes</a></li>
@@ -39,19 +36,26 @@ Galleries &ndash; [X] Seize the Night [X] Neopets Guild
   </div>
   <footer>
   <hr>
-  <p>The content of this project is licensed under the <a
-      href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike
-      4.0 International</a> (CC BY-NC-SA 4.0) license. The underlying
-    <a href="https://github.com/shriker/seizethenight">source code</a> used to format and display that content is licensed under the MIT license.</p>
-  <p>This is a fan site. We are not affiliated with or
-    endorsed by <a href="http://www.neopets.com">Neopets</a>.</p>
-  <p>Copyright <a href="https://shriker.ca">soulwolf</a> 2000&ndash;2020. All rights reserved.</p>
+  <p>The content of this project is licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a> (CC BY-NC-SA 4.0) license.<br>The underlying <a href="https://github.com/shriker/seizethenight">source code</a> used to format and display the content is licensed under the MIT license.</p>
+  <p>This is a fan site. We are not affiliated with or endorsed by <a href="http://www.neopets.com">Neopets</a>. Copyright <a href="https://shriker.ca">soulwolf</a> 2000&ndash;2020. All rights reserved.</p>
 </footer>
 
+<script src="/js/jquery.js"></script>
+<script src="/js/jquery.debounce.js"></script>
+<script src="/js/jquery.fluidbox.min.js"></script>
 <script>
-  $(function () {
-    $('.image').fluidbox();
+$(function () {
+  $('.image').fluidbox()
+  .on('openstart.fluidbox', function (e) {
+    e.preventDefault();
+    let bg = 'background-image: url("' + $(this).find("img").attr("src") + '")';
+    document.styleSheets[0].addRule(".fluidbox__overlay::before", bg);
   })
+  .on('openend.fluidbox', function (e) {
+  })
+  .on('closestart.fluidbox', function () {
+  });
+});
 </script>
 </body>
 </html>

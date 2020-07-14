@@ -11,5 +11,33 @@
 	<atom:link href="https://stn.shriker.ca/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Lupes</title>
+      <link>https://stn.shriker.ca/gallery/lupes/</link>
+      <pubDate>Sun, 12 Jul 2020 18:47:38 -0800</pubDate>
+      
+      <guid>https://stn.shriker.ca/gallery/lupes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>~Dark Moon Eyries~</title>
+      <link>https://stn.shriker.ca/gallery/dark-moon/</link>
+      <pubDate>Sun, 12 Jul 2020 18:47:38 -0800</pubDate>
+      
+      <guid>https://stn.shriker.ca/gallery/dark-moon/</guid>
+      <description>An old Neopets Eyrie guild. You won&amp;rsquo;t find those ~|Dark Skye|~ Eyrie Clan wimps here.</description>
+    </item>
+    
+    <item>
+      <title>Talis the Aisha</title>
+      <link>https://stn.shriker.ca/gallery/talis/</link>
+      <pubDate>Mon, 10 Jan 2000 18:47:38 -0800</pubDate>
+      
+      <guid>https://stn.shriker.ca/gallery/talis/</guid>
+      <description>100% the coolest Aisha on the internet.
+ Hatched: January 10th, 2000 as a Blue Aisha Painted: Shadow, 2001 Painted: Darigan, 2004  </description>
+    </item>
+    
   </channel>
 </rss>
