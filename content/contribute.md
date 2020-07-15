@@ -13,6 +13,7 @@ The greatest thing you can do to support the spirit of \[x\] StN \[x\] is to lea
 - See what resources are available at your local library.
 - Draw.
 - Write.
+- Wear a damn mask while in public spaces. 😷
 - [neocities.org](https://neocities.org/) - The spirit of Geocities. Create your own free website.
 - [glitch.com](https://glitch.com/) - Build fast, full-stack web apps in your browser for free.
 - [automatetheboringstuff](https://automatetheboringstuff.com/) - For complete beginners to (Python) programming.

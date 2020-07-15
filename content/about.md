@@ -7,7 +7,7 @@ partial: "actors.html"
 
 This is a living archive for the \[x\] Seize the Night \[x\] (StN) guild from Neopets. Circa 2000~2005. The aim is to [collect](/contribute/) all of the excellent creations we made during the pre-customization era of Neopets (and beyond).
 
-Seize the Night was originally a nameless collective on Neopets. I (soulwolf) started creating threads with the title "\[x\] Lupe Role Play \[x\]" in the "Evil Things and Monster Sightings" neoboard. (There was no Roleplay neoboard category.) When Neopets introduced player-created guilds, there was enough interest that I decided to create one. I picked the name "Seize the Night" based on the 1998 Dean Koontz novel of the same name.
+Seize the Night was originally a nameless collective on Neopets. In October of 2000, I (soulwolf) started creating threads with the title "\[x\] Lupe Role Play \[x\]" in the "General Chat" neoboard. When Neopets introduced player-created guilds, there was enough interest that I created one. I picked the name "Seize the Night" based on the 1998 Dean Koontz novel of the same name.
 
 Things we did: wrote in boards that would yeet our writing into the void, a lot of character design, stay up too late, made friends, played too many Adobe Flash games, saved for paint brushes, collected avatars, built PetPages, guild layouts, user and Neopet lookups, struggled with the realities of global communities.
 

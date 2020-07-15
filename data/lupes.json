@@ -12,6 +12,10 @@
     "src": "/images/lupes/shriker_stn-guild-header.png"
   },
   {
+    "name": "SpectraDevil Sketch",
+    "src": "/images/lupes/shriker_2000_spectradevil-sketch.jpg"
+  },
+  {
     "name": "SpectraDevil Hop",
     "src": "/images/lupes/shriker_spectradevil-hop.png"
   },
@@ -21,11 +25,11 @@
   },
   {
     "name": "Mess With the Best",
-    "src": "/images/lupes/stn_iversia-mess-with-the-best.png"
+    "src": "/images/lupes/shriker_mess-with-the-best.png"
   },
   {
     "name": "Yummy Tail",
-    "src": "/images/lupes/stn_iversia-yummy-tail.png"
+    "src": "/images/lupes/shriker_yummy-tail.png"
   },
   {
     "name": "Amagenta Gift",
@@ -45,11 +49,11 @@
   },
   {
     "name": "SpectraDevil",
-    "src": "/images/lupes/stn_iversia-speccy.png"
+    "src": "/images/lupes/shriker_speccy.png"
   },
   {
     "name": "SpectraDevil by Lauren M.",
-    "src": "/images/lupes/laurenm-spectradevil.jpg"
+    "src": "/images/lupes/laurenm_spectradevil.jpg"
   },
   {
     "name": "SpectraDevil by dixiperr0",
@@ -110,5 +114,17 @@
   {
     "name": "Solace Lupe by Shriker",
     "src": "/images/lupes/shriker_solace-lupe.png"
+  },
+  {
+    "name": "Lozilver Gift Art",
+    "src": "/images/lupes/shriker_2003_lozilver-gift.jpg"
+  },
+  {
+    "name": "Jettison Request",
+    "src": "/images/lupes/shriker_2004_jettison-request.jpg"
+  },
+  {
+    "name": "Solace PetPage",
+    "src": "/images/lupes/shriker_solace-petpage.png"
   }
 ]
