@@ -18,7 +18,7 @@ To put simply: it was eye-catching board decoration, but also indicative of bein
 
 ## Associated Acts
 
-Neopet guilds that were related, allied, or had significant membership crossover. (You all belong here!)
+Neopet guilds that were related, allied, or had significant membership crossover. (You are all welcome here!)
 
 * Arctic Thunder Lupe Pack
 * Arctic Wolf Pack, The
